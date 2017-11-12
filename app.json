@@ -1,0 +1,6 @@
+{
+  "name": "Angular 2 app for deploying project in heroku",
+  "description": "It allows you to deploy project in heroku.",
+  "repository": "https://github.com/rajendraarora16/angular2-todo-heroku",
+  "keywords": ["node", "express", "boilerplate", "angular", "angular-2"]
+}
